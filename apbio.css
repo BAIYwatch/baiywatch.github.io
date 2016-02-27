@@ -1,0 +1,71 @@
+#screen {
+	width: 339px;
+	height: 600px;
+	margin: auto;
+	background-color: #BFD7F7;
+}
+
+#header {
+	padding-top: 10px;
+}
+
+.item {
+	display: inline;
+	clear: both;
+}
+
+.item #title h1 {
+	text-transform: uppercase;
+	text-align: center;
+	padding-left: 0px;
+	font-size: 1.25em;
+	font-family: "Century Gothic", sans-serif;
+	margin-top: -35px;
+}
+
+.item #plus img {
+	width: 12%;
+	height: auto;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+
+.item #menu img {
+	width: 12%;
+	height: auto;
+	float: right;
+	margin-top: -47px;
+	padding-right: 15px;
+}
+
+#main {
+	width: 100%;
+	margin-top: 30px;
+	padding-left: 15px;
+}
+
+#desc h2 {
+	padding-top: 20px;
+	font-size: 1em;
+	text-align: center;
+	font-family: "Century Gothic", sans-serif;
+}
+
+.category {
+	width: 42%;
+	display: inline-block;
+	padding-right: 20px;
+	padding-bottom: 30px;
+}
+
+.category h3 {
+	font-family: "Century Gothic", sans-serif;
+	font-size: 1em;
+	text-align: center;
+}
+
+.category img {
+	width: 100%;
+	height: auto;
+	margin-bottom: -15px;
+}
