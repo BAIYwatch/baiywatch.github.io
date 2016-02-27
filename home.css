@@ -13,13 +13,13 @@ img {
   height:128px;
   padding-top: 3px;
   vertical-align: text-top;
-  margin-left: 50px;
+  margin-left: 80px;
 }
 
 #buttons #button-panel button {
-  width: 113px;
-  height: 110px;
-  margin: -3px 13px 13px 24px;
+  width: 142px;
+  height: 140px;
+  margin: 3px 13px 13px 24px;
   display:inline;
   border: .5px solid #E0E6F0;
   box-shadow: 
