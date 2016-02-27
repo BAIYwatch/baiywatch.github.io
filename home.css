@@ -1,0 +1,71 @@
+#screenbox {
+	width: 282px;
+	height: 500px;
+	margin: auto;
+	padding: 0px;
+	background-color: #BFD7F7;
+	font-size: 20px;
+	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+img {
+  float: center;
+  width:180px;
+  height:128px;
+  padding-top: 3px;
+  vertical-align: text-top;
+  margin-left: 50px;
+}
+
+#buttons #button-panel button {
+  width: 113px;
+  height: 110px;
+  margin: -3px 13px 13px 24px;
+  display:inline;
+  border: .5px solid #E0E6F0;
+  box-shadow: 
+     inset 2px 2px 3px #E4EBF5;
+  border-radius: 6px;
+  font-size: 13pt;
+  text-align: center;
+  background-color: #EDF4FE;
+  font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+#buttons #button-panel #button-prof {
+  margin-left:16px;
+}
+
+
+#buttons #button-panel #button-friends {
+  margin-left:5px;
+}
+
+
+#buttons #button-panel #button-message {
+  margin-left:16px;
+}
+
+#buttons #button-panel #button-mygroups {
+  margin-left:5px;
+
+}
+
+
+#buttons #button-panel #button-yourrec {
+  margin-left:16px;
+}
+
+
+#buttons #button-panel #button-search {
+  margin-left: 5px;
+}
+
+
+#buttons #button-panel button:hover {
+  background-color: #D6DCE5;
+}
+
+#buttons #button-panel button:active {
+  background-color: #D4DAE3;
+  box-shadow: 3px 3px 3px #D6DCE5 inset;
+}
