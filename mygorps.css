@@ -15,10 +15,26 @@ body {
 #title {
 	text-align: center;
 	font-size: 32px;
-	padding-top:20px;
+	padding-top:-10px;
 	font-weight:bold;
 	font-family: "Avenir Next";
 }
+
+#plus img {
+	width: 12%;
+	height: auto;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+
+#menu img {
+	width: 12%;
+	height: auto;
+	float: right;
+	margin-top: -47px;
+	padding-right: 15px;
+}
+
 
 #topBar {
 	background-color: #6A96D2;
