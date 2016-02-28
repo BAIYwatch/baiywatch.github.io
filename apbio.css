@@ -7,6 +7,8 @@
 
 #header {
 	padding-top: 10px;
+	height: 80px;
+	background: #6a96d2;
 }
 
 .item {
@@ -15,32 +17,46 @@
 }
 
 .item #title h1 {
-	text-transform: uppercase;
 	text-align: center;
 	padding-left: 0px;
-	font-size: 1.25em;
-	font-family: "Century Gothic", sans-serif;
-	margin-top: -35px;
+	font-size: 32px;
+	font-family: 'Century Gothic', sans-serif;
+	margin-top: -36px;
 }
 
-.item #plus img {
+.item #arrow img {
 	width: 12%;
 	height: auto;
 	padding-left: 15px;
-	padding-top: 5px;
+	padding-top: 10px;
 }
 
 .item #menu img {
 	width: 12%;
 	height: auto;
 	float: right;
-	margin-top: -47px;
+	margin-top: -70px;
 	padding-right: 15px;
+}
+
+button {
+	width: 310px;
+	height: 50px;
+	float: center;
+	font-size: 1em;
+	font-family: 'Century Gothic', sans-serif;
+	background: #edf4fe;
+}
+
+#button {
+	padding-left: 15px;
+	margin: 0 auto;
+	padding-top: 15px;
 }
 
 #main {
 	width: 100%;
-	margin-top: 30px;
+	margin-top: 15px;
 	padding-left: 15px;
 }
 
@@ -55,7 +71,7 @@
 	width: 42%;
 	display: inline-block;
 	padding-right: 20px;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 }
 
 .category h3 {
@@ -68,4 +84,8 @@
 	width: 100%;
 	height: auto;
 	margin-bottom: -15px;
+}
+
+a {
+	text-decoration: none;
 }
