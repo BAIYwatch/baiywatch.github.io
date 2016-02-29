@@ -20,9 +20,9 @@
 	text-align: center;
 	padding-left: 0px;
 	font-size: 1.5em;
-	font-family: 'Century Gothic', sans-serif;
-	margin-top: -36px;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;	margin-top: -36px;
 	font-weight: 300;
+	letter-spacing: 1px;
 }
 
 .item #arrow img {
@@ -36,7 +36,7 @@
 	width: 12%;
 	height: auto;
 	float: right;
-	margin-top: -70px;
+	margin-top: -55px;
 	padding-right: 15px;
 }
 
@@ -47,6 +47,11 @@ button {
 	font-size: 1em;
 	font-family: 'Century Gothic', sans-serif;
 	background: #edf4fe;
+	border: solid 2px #94B8E9;
+}
+
+button:hover {
+	background: #efefef;
 }
 
 #button {
@@ -66,6 +71,7 @@ button {
 	font-size: 1em;
 	text-align: center;
 	font-family: "Century Gothic", sans-serif;
+	font-weight: 300;
 }
 
 .category {
@@ -79,15 +85,14 @@ button {
 	font-family: "Century Gothic", sans-serif;
 	font-size: 1em;
 	text-align: center;
+	font-weight: 300;
 }
 
 .category img {
 	width: 100%;
 	height: auto;
 	margin-bottom: -15px;
-	border-style: solid;
-    border-width: 1px;
-
+    border: solid 1px #94B8E9;
 }
 
 a {
