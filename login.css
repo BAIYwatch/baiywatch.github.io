@@ -1,0 +1,49 @@
+#loginBox {
+	width: 339px;
+	height: 600px;
+	margin: auto;
+	background-color: #BFD7F7;
+	font-size: 20px;
+	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+#loginForm {
+	padding: 80px 25px;
+
+}
+
+.field {
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+#login {
+	border: solid #94B8E9;
+	border-radius: 5px;
+	margin-top: 30px;
+	height: 40px;
+	width: 60px;
+	background-color: #EDF4FE;
+	float: right;
+	font-size: 14px;
+	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+
+}
+
+.input {
+	background-color: transparent;
+	height: 2rem;
+	width: 282px;
+
+	border-top: transparent;
+	border-right: transparent;
+	border-bottom: 1px solid #94B8E9;
+	border-left: transparent;
+
+	font-size: 20px;
+}
+
+.label {
+	position: absolute;
+	line-height: 2rem;
+}
