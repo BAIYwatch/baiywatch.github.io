@@ -17,10 +17,10 @@ body {
 	font-size: 32px;
 	margin-top: -36px;
 	font-weight:bold;
-	font-family: "Avenir Next";
+	font-family:AppleGothic,sans-serif; 
 }
 
-#plus img {
+#arrow img {
 	width: 12%;
 	height: auto;
 	padding-left: 15px;
@@ -56,7 +56,7 @@ body {
 	border-radius:12px;
 	background-color: #EDF4FE;
 	width: 220px;
-	font-family: "Avenir Next";
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
 .collapseButton {
@@ -64,5 +64,8 @@ body {
 	width:339px;
 	background-color:#94B8E9;
 	font-size:30px;
-	font-family: "Avenir Next";
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	border-style:outset;
+	border-width:1px;
+	border-color:#6A96D2;
 }
