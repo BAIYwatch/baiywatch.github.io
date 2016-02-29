@@ -20,6 +20,11 @@ body {
 	font-family:AppleGothic,sans-serif; 
 }
 
+h1 {
+	font-size: 32px;
+	font-family: 'Century Gothic', sans-serif;
+}
+
 #arrow img {
 	width: 12%;
 	height: auto;
@@ -35,12 +40,10 @@ body {
 	padding-right: 15px;
 }
 
-
 #topBar {
 	background-color: #6A96D2;
 	width: 339px;
 	height: 80px;
-
 }
 
 #mainScreenSpace {
