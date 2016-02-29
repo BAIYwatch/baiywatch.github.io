@@ -7,6 +7,8 @@
 
 #header {
 	padding-top: 10px;
+	height: 80px;
+	background: #6a96d2;
 }
 
 .item {
@@ -15,12 +17,11 @@
 }
 
 .item #title h1 {
-	text-transform: uppercase;
 	text-align: center;
 	padding-left: 0px;
-	font-size: 1.25em;
+	font-size: 32px;
 	font-family: "Century Gothic", sans-serif;
-	margin-top: -35px;
+	margin-top: -36px;
 }
 
 .item #arrow img {
@@ -68,4 +69,8 @@
 	width: 100%;
 	height: auto;
 	margin-bottom: -15px;
+}
+
+a {
+	text-decoration: none;
 }
