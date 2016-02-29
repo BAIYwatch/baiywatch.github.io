@@ -1,0 +1,111 @@
+#profilePage {
+	width: 339px;
+	height: 600px;
+	margin: auto;
+	background-color: #BFD7F7;
+	font-size: 20px;
+	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+#topBar {
+	padding-top: 10px;
+	height: 80px;
+	font-size: 42px;
+	background-color: #6A96D2;
+}
+
+.item {
+	display: inline;
+	clear: both;
+}
+
+#name {
+	text-align: center;
+	height: 30px;
+	width: 330px;
+}
+
+.item #name h1 {
+    text-transform: uppercase;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 30px;
+    padding-left: 0px;
+    margin-top: -45px;
+}
+
+#arrow img {
+	width: 12%;
+	height: auto;
+	padding-left: 15px;
+	padding-top: 16px;
+}
+
+#menu img {
+	width: 12%;
+	height: auto;
+	float: right;
+	margin-top: -35px;
+	padding-right: 15px;
+}
+
+#profilePic {
+	float: left;
+	margin-right: 20px;
+}
+
+#profileSummary {
+	height: 100px;
+	margin: 15px;
+	margin-bottom: 5px;
+	font-size: 18px;
+	font-family:;
+	padding: 10px;
+}
+
+#year {
+	font-size: 16px;
+	color: #6A96D2;
+}
+
+#message {
+	margin: 5px;
+	margin-left: 15px;
+	float: left;
+}
+
+#messageButton {
+	background-color: #EDF4FE;
+	border: solid #94B8E9;
+	border-radius: 5px;
+	font-size: 14px;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	margin-left: 10px;
+	width: 100px;
+	height: 40px;
+}
+
+#profileClasses {
+	float: left;
+	margin-top: 20px;
+	margin-left: 25px;
+}
+
+.gorpType {
+	font-size: 16px;
+	margin-top: 8px;
+	margin-bottom: 5px;
+}
+
+.buttons {
+	font-size:16px;
+	margin: auto;
+	margin-top: 8px;
+	margin-bottom: 5px;
+	display: block;
+	border-radius:12px;
+	background-color: #EDF4FE;
+	width: 285px;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+
