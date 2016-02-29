@@ -1,46 +1,72 @@
 #screen {
 	width: 339px;
 	height: 600px;
-	margin: auto;
+	margin: 0 auto;
 	background-color: #BFD7F7;
-	font-size: 20px;
+	font-size: 16px;
 	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+#title h1 {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 2em;
+	text-align: center;
+	font-weight: 300;
+	letter-spacing: 2px;
+}
+
+#logo img {
+	width: 50%;
+	padding-left: 77px;
+	padding-bottom: 0px;
+	margin-bottom: -25px;
 }
 
 #loginForm {
 	padding: 80px 25px;
-
 }
 
 .field {
 	padding-top: 30px;
-	padding-bottom: 10px;
+	padding-bottom: 0px;
 }
 
 #login {
 	border: solid #94B8E9;
 	border-radius: 5px;
-	margin-top: 30px;
+	margin-top: 20px;
 	height: 40px;
-	width: 60px;
+	width: 290px;
 	background-color: #EDF4FE;
 	float: right;
 	font-size: 14px;
 	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
-
 }
 
 .input {
 	background-color: transparent;
 	height: 2rem;
 	width: 282px;
-
 	border-top: transparent;
 	border-right: transparent;
 	border-bottom: 1px solid #94B8E9;
 	border-left: transparent;
+	font-size: 15px;
+	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	letter-spacing: 1px;
+}
 
-	font-size: 20px;
+input #password {
+	font:small-caption;
+	font-size:16px;
+}
+
+::-webkit-input-placeholder {
+    color: #000;
+}
+
+.input {
+	font-size: 
 }
 
 .label {
