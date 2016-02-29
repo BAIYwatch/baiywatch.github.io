@@ -1,0 +1,86 @@
+#messagePage {
+	width: 339px;
+	height: 600px;
+	margin: auto;
+	background-color: #BFD7F7;
+	font-size: 20px;
+	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+#topBar {
+	padding-top: 10px;
+	height: 80px;
+	font-size: 42px;
+	background-color: #6A96D2;
+}
+
+.item {
+	display: inline;
+	clear: both;
+}
+
+#name {
+	text-align: center;
+	height: 30px;
+	width: 330px;
+}
+
+.item #name h1 {
+    text-transform: uppercase;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 30px;
+    padding-left: 0px;
+    margin-top: -45px;
+}
+
+#arrow img {
+	width: 12%;
+	height: auto;
+	padding-left: 15px;
+	padding-top: 16px;
+}
+
+#menu img {
+	width: 12%;
+	height: auto;
+	float: right;
+	margin-top: -35px;
+	padding-right: 15px;
+}
+
+#chat {
+	height: 420px;
+}
+
+#message1 {
+	float: right;
+	font-size: 12px;
+	height: 80px;
+	width: 200px;
+	margin: 15px;
+	padding: 10px;
+	background-color: #EDF4FE;
+
+}
+
+#message {
+	height: 80px;
+	width: 200px;
+}
+
+#messageText {
+	height: 80px;
+	background-color: #94B8E9;
+	padding: 20px;
+}
+
+#send {
+	float: right;
+	margin-right: 10px;
+	margin-top: 30px;
+	width: 60px;
+	height: 30px;
+	border-radius: 12px;
+	border: solid #BFD7F7;
+	background-color: #EDF4FE;
+}
