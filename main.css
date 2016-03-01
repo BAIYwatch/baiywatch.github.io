@@ -8,6 +8,11 @@
 	font-family:"Century Gothic", sans-serif;
 }
 
+#subtitle{
+	font-style:italic;
+	float:center;
+}
+
 .field {
 	padding-top: 30px;
 	padding-bottom: 10px;
