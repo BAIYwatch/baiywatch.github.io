@@ -15,6 +15,12 @@
 	letter-spacing: 2px;
 }
 
+#subtitle{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-style:italic;
+	text-align:center;
+}
+
 #logo img {
 	width: 50%;
 	padding-left: 77px;
