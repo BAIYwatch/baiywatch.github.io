@@ -69,3 +69,7 @@ img {
   background-color: #D4DAE3;
   box-shadow: 3px 3px 3px #D6DCE5 inset;
 }
+
+a {
+	text-decoration: none;
+}
