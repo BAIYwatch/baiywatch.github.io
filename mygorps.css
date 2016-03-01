@@ -15,19 +15,6 @@
 	padding:20px;
 }*/
 
-#screen {
-	width: 339px;
-	height: 600px;
-	margin: auto;
-	background-color: #BFD7F7;
-}
-
-#header {
-	padding-top: 10px;
-	height: 80px;
-	background: #6a96d2;
-}
-
 .buttons {
 	font-size:25px;
 	margin: auto;
