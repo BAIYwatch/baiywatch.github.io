@@ -1,6 +1,6 @@
 body {
 	display: block;
-	margin:8px;
+	margin: 8px;
 }
 
 #screenBackground {
@@ -12,24 +12,18 @@ body {
 	font: sans-serif;
 }
 
-#title {
+#title h1 {
 	text-align: center;
 	font-size: 1.5em;
 	margin-top: -46px;
 	font-weight:bold;
-	font-family: 'Century Gothic', sans-serif;
-}
-
-h1 {
-	font-size: 1.5em;
-	font-family: 'Century Gothic', sans-serif;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;	margin-top: -36px;
 }
 
 #topBar {
 	background-color: #6A96D2;
 	width: 339px;
 	height: 80px;
-	padding-top: 10px;
 }
 
 #mainScreenSpace {
