@@ -3,7 +3,7 @@
 	height: 600px;
 	margin: auto;
 	background-color: #BFD7F7;
-	font-size: 20px;
+	font-size: 1.5em;
 	font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 }
 
@@ -26,9 +26,9 @@
 }
 
 .item #name h1 {
-    text-transform: uppercase;
     font-family: "Century Gothic", sans-serif;
-    font-size: 30px;
+    font-size: 1.5em;
+    font-weight: 300;
     padding-left: 0px;
     margin-top: -45px;
 }
@@ -107,5 +107,3 @@
 	width: 285px;
 	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
-
-
