@@ -60,11 +60,6 @@ img {
   margin-left: 5px;
 }
 
-
-#buttons #button-panel button:hover {
-  background-color: #D6DCE5;
-}
-
 #buttons #button-panel button:active {
   background-color: #D4DAE3;
   box-shadow: 3px 3px 3px #D6DCE5 inset;
