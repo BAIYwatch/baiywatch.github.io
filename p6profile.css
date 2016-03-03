@@ -107,3 +107,7 @@
 	width: 285px;
 	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
+
+a {
+	text-decoration: none;
+}
